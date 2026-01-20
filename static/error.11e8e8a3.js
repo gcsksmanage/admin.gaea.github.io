@@ -1,0 +1,1 @@
+import{_ as o,c as s,o as t,p as _,a,b as c}from"./entry.10915f71.js";const r={},n=e=>(_("data-v-e4a73875"),e=e(),a(),e),d={class:"error-page"},p=n(()=>c("h1",null,"Not logged in, please log in first",-1)),i=[p];function l(e,f){return t(),s("div",d,i)}const u=o(r,[["render",l],["__scopeId","data-v-e4a73875"]]);export{u as default};
